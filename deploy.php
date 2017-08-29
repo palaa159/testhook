@@ -1,5 +1,5 @@
 <?php
-	echo "testing lol";
+	echo "testing loling";
 // Use in the "Post-Receive URLs" section of your GitHub repo.
 	if ( $_POST['payload'] ) {
 		echo "received hook";
